@@ -100,7 +100,6 @@ bucchiootukururoad:
 ![OUTPUT](<bucchiutukuru road.png>)
 balaramakrishnantiffincenter:
 ![OUTPUT](balaramakrishnantiffincenter-1.png)
-tatakuladinnie:
-![OUTPUT](tatakuladinnie.png)
+
 ## Result:
 Thus the program executed successfully.

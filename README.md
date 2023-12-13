@@ -92,8 +92,6 @@ balaramakrishnantiffincenter.html
 ## Output:
 HOMETOWN
 ![OUTPUT](<hasini hometown.jpg>)
-Five places near hometown:
-![OUTPUT](<famous palces near hometown.png>)
 ssfamilyrestaurant:
 ![OUTPUT](ssfamilyrestaurantnearplace.png)
 sriramtemple:
